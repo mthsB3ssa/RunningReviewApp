@@ -1,0 +1,6 @@
+@RunningReviewApp_HostAddress = http://localhost:5096
+
+GET {{RunningReviewApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
